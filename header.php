@@ -43,7 +43,7 @@ echo utf8_encode('
             <!-- BEGIN LOGO -->
             <div class="page-logo">
                 <a href="index.html">
-                    <img src="assets/layouts/layout3/img/logo-SMA.png" alt="logo" class="logo-default">
+                    <img src="assets/layouts/layout3/img/logo-SMA.PNG" alt="logo" class="logo-default">
                 </a>
             </div>
             <!-- END LOGO -->
